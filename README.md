@@ -30,7 +30,7 @@ d.M.J = 7
 assert  d.M.J  == 7
 assert  d['M']['J']  == 7
 
-# downgrade to dict any time
+# downgrade to a dict any time
 print dict(d.M) # {'J': 7}
 
 ```
