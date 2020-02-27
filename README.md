@@ -5,7 +5,7 @@ Enhance defaultdict
 pip install dottree 
 
 ```python 
-""
+"""
 How to use:
 - use like a dict
 - use like an object 
