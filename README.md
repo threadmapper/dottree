@@ -2,7 +2,14 @@
 Enhance defaultdict 
 
 # install
+
+- Use pip to install tested in python2
+
+```bash
 pip install dottree 
+``
+
+# Quick test
 
 ```python 
 """
