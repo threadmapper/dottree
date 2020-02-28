@@ -1,6 +1,6 @@
 # dottree
 
-"Enhanced defaultdict" 
+An "Enhanced defaultdict", I have been using this construct in my code many time ends up writing the biolerplate getter setter many times. So packed into a module to share with you all.
 
 
 # How to install
