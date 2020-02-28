@@ -21,7 +21,8 @@ pip install dottree
 How to use:
 - use like a dict
 - use like an object 
-- go as deep you want
+- Go as deep you need
+
 '''
 
 from dottree import dotree as dot
