@@ -3,7 +3,7 @@
 "Enhanced defaultdict" 
 
 
-# install
+# How to install
 
 - Use pip to install 
 - tested in Python2
@@ -13,7 +13,7 @@
 pip install dottree 
 ```
 
-# Quick test
+# Quick check
 
 ```python 
 
