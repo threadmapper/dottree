@@ -9,13 +9,14 @@
 - tested in Python2
 
 
-``` 
+```bash 
 pip install dottree 
-``
+```
 
 # Quick test
 
-``` 
+```python 
+
 '''
 How to use:
 - use like a dict
